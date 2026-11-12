@@ -1,0 +1,25 @@
+{
+  "name": "classgrid",
+  "version": "1.1.0",
+  "description": "Use your Classgrid account in Claude: your projects and their code on GitHub, Classgrid AI chat history, live docs and pages, schedules and reminders, Grid team chats, and your connected apps.",
+  "author": {
+    "name": "Classgrid",
+    "email": "support@classgrid.in",
+    "url": "https://classgrid.in"
+  },
+  "homepage": "https://classgrid.in/agent",
+  "repository": "https://github.com/Classgrid/classgrid-claude-plugin",
+  "license": "SEE LICENSE IN LICENSE",
+  "privacyPolicyUrl": "https://classgrid.in/privacy",
+  "keywords": [
+    "classgrid",
+    "projects",
+    "code",
+    "github",
+    "schedules",
+    "reminders",
+    "team chat",
+    "docs",
+    "productivity"
+  ]
+}

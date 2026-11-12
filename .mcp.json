@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "classgrid": {
+      "type": "http",
+      "url": "https://api.classgrid.in/mcp"
+    }
+  }
+}

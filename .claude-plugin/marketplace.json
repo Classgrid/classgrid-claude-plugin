@@ -1,0 +1,20 @@
+{
+  "name": "classgrid",
+  "owner": {
+    "name": "Classgrid",
+    "email": "support@classgrid.in",
+    "url": "https://classgrid.in"
+  },
+  "metadata": {
+    "description": "The official Classgrid plugin for Claude."
+  },
+  "plugins": [
+    {
+      "name": "classgrid",
+      "source": "./",
+      "description": "Use your Classgrid account in Claude: your projects and their code on GitHub, Classgrid AI chat history, live docs and pages, schedules and reminders, Grid team chats, and your connected apps.",
+      "category": "productivity",
+      "homepage": "https://classgrid.in/agent"
+    }
+  ]
+}
